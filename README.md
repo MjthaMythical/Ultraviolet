@@ -21,7 +21,7 @@ Some of the popular websites that Ultraviolet supports include:
 -   [Reddit](https://reddit.com)
 -   [GeForce NOW](https://play.geforcenow.com/)
 -   [now.gg](https://now.gg)
-
+-   [replit](replit.com)
 ## Used by
 
 -   [Holy Unblocker](https://github.com/holy-unblocker/website)
